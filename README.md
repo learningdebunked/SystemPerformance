@@ -35,3 +35,9 @@ Reasons for high CPU
 **RAM structure **
 
         ** //TODO Know the internals like 
+
+** GC logs **
+
+    ** NMT Logs
+    ** Heap space
+    ** How to read and debug thread dump
