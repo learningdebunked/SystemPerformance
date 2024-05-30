@@ -23,3 +23,15 @@ Reasons for high CPU
 
 ![image](https://github.com/learningdebunked/SystemPerformance/assets/7702406/ea7ac536-a409-4aa9-831e-a65e8c76da96)
 
+
+**OS Memory structure **
+
+         **  //TODO Know the internals
+         ** The operating system reads data from the disk into page cache in kernel space.
+         ** The application reads the data from kernel space into a user-space buffer.
+         ** The application writes the data back into kernel space into a socket buffer.
+         ** The operating system copies the data from the socket buffer to the NIC buffer where it is sent over the network.
+         
+**RAM structure **
+
+        ** //TODO Know the internals like 
