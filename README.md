@@ -41,3 +41,15 @@ Reasons for high CPU
     ** NMT Logs
     ** Heap space
     ** How to read and debug thread dump
+
+
+** System load / performance testing **
+
+    ** Types of failures
+
+            ** H/w Failures
+
+                    ** High CPU
+                    ** High Memory
+                    ** Disk load on container
+                    ** 
