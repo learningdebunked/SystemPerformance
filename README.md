@@ -21,6 +21,9 @@
 
 ![image](https://github.com/user-attachments/assets/749143ba-e03d-4d1b-85e0-4656e124815f)
 
+Tree shaking and code splitting that automatically removes code from the production bundle
+Use anything like a source map explorer which let's you analuze minified and bundled files by using source maps to display the structure of the code and help identify unused code paths
+
 ![image](https://github.com/learningdebunked/SystemPerformance/assets/7702406/8cd151bb-f7b4-4b9e-aa49-66b74046087a)
 
 Reasons for high CPU
