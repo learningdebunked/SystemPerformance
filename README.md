@@ -16,6 +16,9 @@
      ** Round Trip Time **
      ** Render Blocking Resources **
 
+     ![image](https://github.com/user-attachments/assets/afb79e77-8610-4fcb-b17c-ae3ccf8ab3ed)
+
+
 
 ![image](https://github.com/learningdebunked/SystemPerformance/assets/7702406/8cd151bb-f7b4-4b9e-aa49-66b74046087a)
 
